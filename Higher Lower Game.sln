@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31410.357
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Higher Lower Game", "Higher Lower Game\Higher Lower Game.pyproj", "{657D3F4F-8972-4719-B68A-7ECD45761092}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{657D3F4F-8972-4719-B68A-7ECD45761092}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{657D3F4F-8972-4719-B68A-7ECD45761092}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C48AF8B4-EEAA-42A4-B8A5-F31B694639E6}
+	EndGlobalSection
+EndGlobal
